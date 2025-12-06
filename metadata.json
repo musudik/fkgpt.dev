@@ -1,0 +1,5 @@
+{
+  "name": "Nebula - AI Particle System",
+  "description": "A stunning, interactive 3D particle system powered by Three.js and Gemini. Describe a mood or object to generate unique particle formations in real-time.",
+  "requestFramePermissions": []
+}
